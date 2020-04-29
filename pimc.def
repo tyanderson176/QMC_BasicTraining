@@ -1,0 +1,56 @@
+%\input jnl/jnl.tex
+%\input jnl/eqnorder.tex
+%\input jnl/reforder.tex
+\hyphenation{cal-cu-la-tion cal-cu-la-tions}
+
+\def\cf{{\it cf.}}
+\def\eg{{\it e.g.}}
+\def\etal{{\it et~al.}}
+\def\ibid{\it ibid., \rm}
+\def\etc{{\it etc.}}
+\def\ie{{\it i.e.}}
+\def\viz{{\it viz.}}
+
+%\def\begintable{\medskip\hrule\medskip}
+%\def\beq{\begin{equation}}
+%\def\eeq{\end{equation}}
+
+%\def\newpage{\vfill\eject}
+\def\ni{\noindent}
+
+\def\VMC{Variational \MC}
+\def\vMC{variational \MC}
+\def\DMC{Diffusion \MC}
+\def\dMC{diffusion \MC}
+\def\GFMC{Green function \MC}
+\def\pimc{path integral \MC}
+\def\MC{Monte Carlo}
+
+\def\tr{\rm tr}
+\def\rhohat{\hat{\rho}}
+\def\rhoxxb{\rho(x,x,\beta)}
+\def\rhoxpxb{\rho(x',x,\beta)}
+\def\rhozxpxb{\rho_0(x',x,\beta)}
+\def\rhoxpxe{\rho(x',x,\epsilon)}
+\def\rhoRRb{\rho(R,R,\beta)}
+\def\rhoRpRb{\rho(R',R,\beta)}
+\def\rhozRpRb{\rho_0(R',R,\beta)}
+\def\rhoRpRe{\rho(R',R,\epsilon)}
+\def\rhoprode{\rho(x',x_{M-1},\epsilon) \rho(x_{M-1},x_{M-2},\epsilon) ...
+\rho(x_1,x,\epsilon) }
+
+\def\a{{\bf a}}
+\def\wxxab{w(x,x,\a,\beta)}
+\def\wxpxab{w(x',x,\a,\beta)}
+
+\def\vx{V(x)}
+\def\vxp{V(x')}
+
+\def\kmax{k_{\rm max}}
+\def\sigmak{\sigma_k}
+
+\def\psiT{\psi_{\rm T}}
+\def\psiTx{\psi_{\rm T}(x)}
+\def\psiTxp{\psi_{\rm T}(x')}
+
+\def\ELxp{E_{\rm L} (x')}
